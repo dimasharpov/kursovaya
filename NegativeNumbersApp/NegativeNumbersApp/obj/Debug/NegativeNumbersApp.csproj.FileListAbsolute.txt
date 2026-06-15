@@ -1,0 +1,10 @@
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\bin\Debug\NegativeNumbersApp.exe.config
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\bin\Debug\NegativeNumbersApp.exe
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\bin\Debug\NegativeNumbersApp.pdb
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.csproj.AssemblyReference.cache
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.Properties.Resources.resources
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.csproj.GenerateResource.cache
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.csproj.CoreCompileInputs.cache
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.exe
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.pdb
+C:\Users\dimas\source\repos\NegativeNumbersApp\NegativeNumbersApp\obj\Debug\NegativeNumbersApp.exe.config
